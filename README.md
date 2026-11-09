@@ -45,7 +45,7 @@ Pronóstico: 658 actos en el semestre (316 y 341 por trimestre), que corregidos 
 
 ## Figuras
 
-`figuras/fig1_mapa_probabilidad_6m.png` mapa de probabilidad por municipio; `fig2_top30_municipios.png` actos esperados frente a observados en los treinta primeros; `fig3_serie_nacional.png` serie trimestral observada, ajustada y pronóstico.
+`figuras/fig1_mapa_probabilidad_6m.png` mapa de probabilidad por municipio; `fig2_top30_municipios.png` actos esperados frente a observados en los treinta primeros; `fig3_serie_nacional.png` serie trimestral observada, ajustada y pronóstico; `fig4_linkedin_mapa_top30.png` composición apaisada de mapa y top 30 (`scripts/grafica_linkedin.py`).
 
 ## Limitaciones
 
