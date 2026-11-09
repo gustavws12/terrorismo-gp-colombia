@@ -1,0 +1,265 @@
+{
+  "hiper": {
+    "ell_s_km": 80,
+    "ell_t_corta_trim": 1,
+    "ell_t_larga_trim": 30,
+    "w_corta": 0.3,
+    "sf2": 0.5,
+    "sn2": 0.15
+  },
+  "validacion": {
+    "auc_gp": 0.8830857743479104,
+    "auc_base": 0.859040743506763,
+    "captura_top50_gp": 0.569364161849711,
+    "captura_top50_base": 0.5520231213872833,
+    "municipios_con_evento": 195
+  },
+  "pronostico": {
+    "eventos_esperados_nacional_6m": 657.9159497943892,
+    "eventos_obs_ult_6m": 748,
+    "municipios_prob_mayor_50": 154,
+    "municipios_prob_mayor_80": 70
+  },
+  "top30": [
+    {
+      "ranking": 1,
+      "dpto_cnmbr": "NORTE DE SANTANDER",
+      "mpio_cnmbr": "TIBÚ",
+      "eventos_ult_12m": 63,
+      "eventos_esperados_6m": 14.906,
+      "prob_1_o_mas_6m": 1.0
+    },
+    {
+      "ranking": 2,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "ARGELIA",
+      "eventos_ult_12m": 21,
+      "eventos_esperados_6m": 11.178,
+      "prob_1_o_mas_6m": 1.0
+    },
+    {
+      "ranking": 3,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "EL TAMBO",
+      "eventos_ult_12m": 38,
+      "eventos_esperados_6m": 9.41,
+      "prob_1_o_mas_6m": 1.0
+    },
+    {
+      "ranking": 4,
+      "dpto_cnmbr": "VALLE DEL CAUCA",
+      "mpio_cnmbr": "JAMUNDÍ",
+      "eventos_ult_12m": 29,
+      "eventos_esperados_6m": 7.747,
+      "prob_1_o_mas_6m": 0.999
+    },
+    {
+      "ranking": 5,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "SUÁREZ",
+      "eventos_ult_12m": 60,
+      "eventos_esperados_6m": 7.476,
+      "prob_1_o_mas_6m": 0.999
+    },
+    {
+      "ranking": 6,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "BUENOS AIRES",
+      "eventos_ult_12m": 18,
+      "eventos_esperados_6m": 7.143,
+      "prob_1_o_mas_6m": 0.998
+    },
+    {
+      "ranking": 7,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "CAJIBÍO",
+      "eventos_ult_12m": 27,
+      "eventos_esperados_6m": 6.628,
+      "prob_1_o_mas_6m": 0.997
+    },
+    {
+      "ranking": 8,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "MORALES",
+      "eventos_ult_12m": 11,
+      "eventos_esperados_6m": 6.309,
+      "prob_1_o_mas_6m": 0.996
+    },
+    {
+      "ranking": 9,
+      "dpto_cnmbr": "VALLE DEL CAUCA",
+      "mpio_cnmbr": "SANTIAGO DE CALI",
+      "eventos_ult_12m": 25,
+      "eventos_esperados_6m": 5.526,
+      "prob_1_o_mas_6m": 0.993
+    },
+    {
+      "ranking": 10,
+      "dpto_cnmbr": "ARAUCA",
+      "mpio_cnmbr": "SARAVENA",
+      "eventos_ult_12m": 16,
+      "eventos_esperados_6m": 5.537,
+      "prob_1_o_mas_6m": 0.993
+    },
+    {
+      "ranking": 11,
+      "dpto_cnmbr": "ARAUCA",
+      "mpio_cnmbr": "TAME",
+      "eventos_ult_12m": 9,
+      "eventos_esperados_6m": 5.481,
+      "prob_1_o_mas_6m": 0.992
+    },
+    {
+      "ranking": 12,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "PATÍA",
+      "eventos_ult_12m": 32,
+      "eventos_esperados_6m": 5.407,
+      "prob_1_o_mas_6m": 0.992
+    },
+    {
+      "ranking": 13,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "SANTANDER DE QUILICHAO",
+      "eventos_ult_12m": 28,
+      "eventos_esperados_6m": 5.301,
+      "prob_1_o_mas_6m": 0.991
+    },
+    {
+      "ranking": 14,
+      "dpto_cnmbr": "NORTE DE SANTANDER",
+      "mpio_cnmbr": "SAN JOSÉ DE CÚCUTA",
+      "eventos_ult_12m": 19,
+      "eventos_esperados_6m": 5.276,
+      "prob_1_o_mas_6m": 0.991
+    },
+    {
+      "ranking": 15,
+      "dpto_cnmbr": "GUAVIARE",
+      "mpio_cnmbr": "CALAMAR",
+      "eventos_ult_12m": 21,
+      "eventos_esperados_6m": 5.328,
+      "prob_1_o_mas_6m": 0.991
+    },
+    {
+      "ranking": 16,
+      "dpto_cnmbr": "NORTE DE SANTANDER",
+      "mpio_cnmbr": "EL TARRA",
+      "eventos_ult_12m": 19,
+      "eventos_esperados_6m": 5.115,
+      "prob_1_o_mas_6m": 0.989
+    },
+    {
+      "ranking": 17,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "POPAYÁN",
+      "eventos_ult_12m": 24,
+      "eventos_esperados_6m": 4.752,
+      "prob_1_o_mas_6m": 0.985
+    },
+    {
+      "ranking": 18,
+      "dpto_cnmbr": "ARAUCA",
+      "mpio_cnmbr": "ARAUQUITA",
+      "eventos_ult_12m": 11,
+      "eventos_esperados_6m": 4.505,
+      "prob_1_o_mas_6m": 0.981
+    },
+    {
+      "ranking": 19,
+      "dpto_cnmbr": "ARAUCA",
+      "mpio_cnmbr": "FORTUL",
+      "eventos_ult_12m": 16,
+      "eventos_esperados_6m": 4.451,
+      "prob_1_o_mas_6m": 0.98
+    },
+    {
+      "ranking": 20,
+      "dpto_cnmbr": "VALLE DEL CAUCA",
+      "mpio_cnmbr": "BUENAVENTURA",
+      "eventos_ult_12m": 15,
+      "eventos_esperados_6m": 4.453,
+      "prob_1_o_mas_6m": 0.98
+    },
+    {
+      "ranking": 21,
+      "dpto_cnmbr": "GUAVIARE",
+      "mpio_cnmbr": "SAN JOSÉ DEL GUAVIARE",
+      "eventos_ult_12m": 11,
+      "eventos_esperados_6m": 4.27,
+      "prob_1_o_mas_6m": 0.976
+    },
+    {
+      "ranking": 22,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "CORINTO",
+      "eventos_ult_12m": 25,
+      "eventos_esperados_6m": 4.03,
+      "prob_1_o_mas_6m": 0.971
+    },
+    {
+      "ranking": 23,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "INZÁ",
+      "eventos_ult_12m": 30,
+      "eventos_esperados_6m": 3.924,
+      "prob_1_o_mas_6m": 0.968
+    },
+    {
+      "ranking": 24,
+      "dpto_cnmbr": "CAQUETÁ",
+      "mpio_cnmbr": "FLORENCIA",
+      "eventos_ult_12m": 16,
+      "eventos_esperados_6m": 3.866,
+      "prob_1_o_mas_6m": 0.966
+    },
+    {
+      "ranking": 25,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "BALBOA",
+      "eventos_ult_12m": 11,
+      "eventos_esperados_6m": 3.824,
+      "prob_1_o_mas_6m": 0.965
+    },
+    {
+      "ranking": 26,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "TORIBÍO",
+      "eventos_ult_12m": 13,
+      "eventos_esperados_6m": 3.726,
+      "prob_1_o_mas_6m": 0.962
+    },
+    {
+      "ranking": 27,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "PIENDAMÓ - TUNÍA",
+      "eventos_ult_12m": 4,
+      "eventos_esperados_6m": 3.698,
+      "prob_1_o_mas_6m": 0.961
+    },
+    {
+      "ranking": 28,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "TIMBÍO",
+      "eventos_ult_12m": 8,
+      "eventos_esperados_6m": 3.473,
+      "prob_1_o_mas_6m": 0.952
+    },
+    {
+      "ranking": 29,
+      "dpto_cnmbr": "CAUCA",
+      "mpio_cnmbr": "CALOTO",
+      "eventos_ult_12m": 17,
+      "eventos_esperados_6m": 3.368,
+      "prob_1_o_mas_6m": 0.947
+    },
+    {
+      "ranking": 30,
+      "dpto_cnmbr": "HUILA",
+      "mpio_cnmbr": "ALGECIRAS",
+      "eventos_ult_12m": 8,
+      "eventos_esperados_6m": 3.377,
+      "prob_1_o_mas_6m": 0.947
+    }
+  ]
+}
