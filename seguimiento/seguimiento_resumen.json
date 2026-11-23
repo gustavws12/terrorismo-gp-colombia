@@ -1,0 +1,228 @@
+{
+ "meses_observados": [
+  "2026-10"
+ ],
+ "corte": "2026-10-31",
+ "nacional": {
+  "observado": 117.0,
+  "esperado_gp": 105.49436666666666,
+  "esperado_semestre": 657.9146,
+  "ritmo_necesario_resto": 108.18292
+ },
+ "municipios_con_evento": 66,
+ "municipios_esperados_con_evento": 58.04277013194831,
+ "auc_gp": 0.9226210973370065,
+ "auc_base_12m": 0.9003457874196511,
+ "captura": {
+  "top10": {
+   "eventos_gp": 0.13675213675213677,
+   "eventos_base": 0.1623931623931624,
+   "municipios_con_evento_gp": 5,
+   "municipios_con_evento_base": 7
+  },
+  "top30": {
+   "eventos_gp": 0.48717948717948717,
+   "eventos_base": 0.4188034188034188,
+   "municipios_con_evento_gp": 17,
+   "municipios_con_evento_base": 18
+  },
+  "top50": {
+   "eventos_gp": 0.6068376068376068,
+   "eventos_base": 0.6324786324786325,
+   "municipios_con_evento_gp": 28,
+   "municipios_con_evento_base": 31
+  },
+  "top100": {
+   "eventos_gp": 0.7777777777777778,
+   "eventos_base": 0.7606837606837606,
+   "municipios_con_evento_gp": 43,
+   "municipios_con_evento_base": 42
+  }
+ },
+ "sorpresas": [
+  {
+   "mpio_cnmbr": "SOCHA",
+   "dpto_cnmbr": "BOYACÁ",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.0305,
+   "ranking": 715
+  },
+  {
+   "mpio_cnmbr": "LA TOLA",
+   "dpto_cnmbr": "NARIÑO",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.043,
+   "ranking": 628
+  },
+  {
+   "mpio_cnmbr": "SOGAMOSO",
+   "dpto_cnmbr": "BOYACÁ",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.0563,
+   "ranking": 563
+  },
+  {
+   "mpio_cnmbr": "DUITAMA",
+   "dpto_cnmbr": "BOYACÁ",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.1077,
+   "ranking": 417
+  },
+  {
+   "mpio_cnmbr": "YACUANQUER",
+   "dpto_cnmbr": "NARIÑO",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.1151,
+   "ranking": 401
+  },
+  {
+   "mpio_cnmbr": "SAN PABLO",
+   "dpto_cnmbr": "NARIÑO",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.1692,
+   "ranking": 332
+  },
+  {
+   "mpio_cnmbr": "BUCARAMANGA",
+   "dpto_cnmbr": "SANTANDER",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.2524,
+   "ranking": 262
+  },
+  {
+   "mpio_cnmbr": "HATO COROZAL",
+   "dpto_cnmbr": "CASANARE",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.2606,
+   "ranking": 255
+  },
+  {
+   "mpio_cnmbr": "JURADÓ",
+   "dpto_cnmbr": "CHOCÓ",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.3261,
+   "ranking": 222
+  },
+  {
+   "mpio_cnmbr": "YONDÓ",
+   "dpto_cnmbr": "ANTIOQUIA",
+   "obs": 1.0,
+   "prob_1_o_mas_6m": 0.3479,
+   "ranking": 209
+  }
+ ],
+ "ausentes": [
+  {
+   "mpio_cnmbr": "ARGELIA",
+   "dpto_cnmbr": "CAUCA",
+   "esp": 1.85,
+   "prob_1_o_mas_6m": 1.0,
+   "ranking": 2
+  },
+  {
+   "mpio_cnmbr": "EL TAMBO",
+   "dpto_cnmbr": "CAUCA",
+   "esp": 1.58,
+   "prob_1_o_mas_6m": 1.0,
+   "ranking": 3
+  },
+  {
+   "mpio_cnmbr": "SUÁREZ",
+   "dpto_cnmbr": "CAUCA",
+   "esp": 1.24,
+   "prob_1_o_mas_6m": 1.0,
+   "ranking": 5
+  },
+  {
+   "mpio_cnmbr": "BUENOS AIRES",
+   "dpto_cnmbr": "CAUCA",
+   "esp": 1.18,
+   "prob_1_o_mas_6m": 1.0,
+   "ranking": 6
+  },
+  {
+   "mpio_cnmbr": "MORALES",
+   "dpto_cnmbr": "CAUCA",
+   "esp": 1.05,
+   "prob_1_o_mas_6m": 1.0,
+   "ranking": 8
+  },
+  {
+   "mpio_cnmbr": "CALAMAR",
+   "dpto_cnmbr": "GUAVIARE",
+   "esp": 0.92,
+   "prob_1_o_mas_6m": 0.99,
+   "ranking": 15
+  },
+  {
+   "mpio_cnmbr": "FORTUL",
+   "dpto_cnmbr": "ARAUCA",
+   "esp": 0.78,
+   "prob_1_o_mas_6m": 0.98,
+   "ranking": 19
+  },
+  {
+   "mpio_cnmbr": "BUENAVENTURA",
+   "dpto_cnmbr": "VALLE DEL CAUCA",
+   "esp": 0.69,
+   "prob_1_o_mas_6m": 0.98,
+   "ranking": 20
+  },
+  {
+   "mpio_cnmbr": "SAN JOSÉ DEL GUAVIARE",
+   "dpto_cnmbr": "GUAVIARE",
+   "esp": 0.69,
+   "prob_1_o_mas_6m": 0.98,
+   "ranking": 21
+  },
+  {
+   "mpio_cnmbr": "CORINTO",
+   "dpto_cnmbr": "CAUCA",
+   "esp": 0.68,
+   "prob_1_o_mas_6m": 0.97,
+   "ranking": 22
+  }
+ ],
+ "calibracion": [
+  {
+   "tramo": "0-5 %",
+   "municipios": 528,
+   "con_evento": 2,
+   "esperados_con_evento": 1.8,
+   "eventos": 2.0,
+   "eventos_esperados": 13.7
+  },
+  {
+   "tramo": "5-20 %",
+   "municipios": 289,
+   "con_evento": 4,
+   "esperados_con_evento": 5.2,
+   "eventos": 4.0,
+   "eventos_esperados": 12.6
+  },
+  {
+   "tramo": "20-50 %",
+   "municipios": 151,
+   "con_evento": 7,
+   "esperados_con_evento": 9.6,
+   "eventos": 7.0,
+   "eventos_esperados": 14.9
+  },
+  {
+   "tramo": "50-80 %",
+   "municipios": 84,
+   "con_evento": 19,
+   "esperados_con_evento": 13.3,
+   "eventos": 24.0,
+   "eventos_esperados": 18.5
+  },
+  {
+   "tramo": "80-100 %",
+   "municipios": 70,
+   "con_evento": 34,
+   "esperados_con_evento": 28.2,
+   "eventos": 80.0,
+   "eventos_esperados": 45.8
+  }
+ ]
+}

@@ -58,3 +58,7 @@ El registro mide lo que el Ministerio de Defensa clasifica como acto terrorista,
 ## Licencia
 
 MIT para el código. Los datos son del Ministerio de Defensa Nacional y del DANE y se redistribuyen tal como se descargaron de portales públicos, con las derivaciones indicadas.
+
+## Seguimiento
+
+La carpeta `seguimiento/` compara el pronóstico publicado con lo observado a medida que el Ministerio de Defensa actualiza los datos. Primer corte, octubre de 2026: 117 actos frente a 105 esperados para el mes, AUC de 0,92 frente a 0,90 de la línea base, y cinco de los ocho primeros municipios del ranking sin actos registrados. Ver `seguimiento/seguimiento_octubre_2026.md`.
